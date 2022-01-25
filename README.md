@@ -1,2 +1,2 @@
 # PeTRA
-A framework for processing and mining hetegeneous and multisource educational data
+A framework to process and model multimodal data
